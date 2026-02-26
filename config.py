@@ -6,7 +6,7 @@ NODES = {
     1: ("localhost", 5001),
     2: ("localhost", 5002),
     3: ("localhost", 5003),
-    # 4: ("localhost", 5004),
+    4: ("localhost", 5004),
     # 5: ("localhost", 5005),
     # 6: ("localhost", 5006),
     # 7: ("localhost", 5007),

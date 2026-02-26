@@ -37,6 +37,7 @@ class Transport:
             self._handle_connection,
             self.host,
             self.port,
+            reuse_address=True,
         )
         logger.info(f"[Node {self.node_id}] Listening on {self.host}:{self.port}")
 
